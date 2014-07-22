@@ -1,0 +1,22 @@
+{
+  "name": "gulp-dsp",
+  "version": "1.0.0",
+  "description": "dsp template",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "iceet@uoeye.com"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readme": "ERROR: No README data found!"
+}
